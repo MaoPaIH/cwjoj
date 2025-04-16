@@ -1,7 +1,7 @@
 package com.cwj.cwjoj.judge.strategy;
 
 import com.cwj.cwjoj.model.dto.question.JudgeCase;
-import com.cwj.cwjoj.model.dto.questionsubmit.JudgeInfo;
+import com.cwj.cwjoj.judge.codesandbox.model.JudgeInfo;
 import com.cwj.cwjoj.model.entity.Question;
 import com.cwj.cwjoj.model.entity.QuestionSubmit;
 import lombok.Data;

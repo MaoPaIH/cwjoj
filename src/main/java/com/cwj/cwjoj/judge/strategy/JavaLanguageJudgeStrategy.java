@@ -3,7 +3,7 @@ package com.cwj.cwjoj.judge.strategy;
 import cn.hutool.json.JSONUtil;
 import com.cwj.cwjoj.model.dto.question.JudgeCase;
 import com.cwj.cwjoj.model.dto.question.JudgeConfig;
-import com.cwj.cwjoj.model.dto.questionsubmit.JudgeInfo;
+import com.cwj.cwjoj.judge.codesandbox.model.JudgeInfo;
 import com.cwj.cwjoj.model.entity.Question;
 import com.cwj.cwjoj.model.enums.JudgeInfoMessageEnum;
 

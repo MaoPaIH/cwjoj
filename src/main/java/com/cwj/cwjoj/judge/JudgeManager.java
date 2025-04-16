@@ -4,7 +4,7 @@ import com.cwj.cwjoj.judge.strategy.DefaultJudgeStrategy;
 import com.cwj.cwjoj.judge.strategy.JavaLanguageJudgeStrategy;
 import com.cwj.cwjoj.judge.strategy.JudgeContext;
 import com.cwj.cwjoj.judge.strategy.JudgeStrategy;
-import com.cwj.cwjoj.model.dto.questionsubmit.JudgeInfo;
+import com.cwj.cwjoj.judge.codesandbox.model.JudgeInfo;
 import com.cwj.cwjoj.model.entity.QuestionSubmit;
 import org.springframework.stereotype.Service;
 

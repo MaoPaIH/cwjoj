@@ -1,7 +1,7 @@
 package com.cwj.cwjoj.model.vo;
 
 import cn.hutool.json.JSONUtil;
-import com.cwj.cwjoj.model.dto.questionsubmit.JudgeInfo;
+import com.cwj.cwjoj.judge.codesandbox.model.JudgeInfo;
 import com.cwj.cwjoj.model.entity.QuestionSubmit;
 import lombok.Data;
 import org.springframework.beans.BeanUtils;

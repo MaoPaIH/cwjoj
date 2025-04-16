@@ -1,6 +1,6 @@
 package com.cwj.cwjoj.judge.strategy;
 
-import com.cwj.cwjoj.model.dto.questionsubmit.JudgeInfo;
+import com.cwj.cwjoj.judge.codesandbox.model.JudgeInfo;
 
 /**
  * 判题策略

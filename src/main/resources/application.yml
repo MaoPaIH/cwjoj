@@ -44,4 +44,4 @@ knife4j:
           - com.cwj.cwjoj.controller
 
 codesandbox:
-  type: example
+  type: remote
